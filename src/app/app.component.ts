@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'visapractice';
+  name='raj'
+  // job=;"developer";
+  read(){
+    // console.log('no cosole');
+    
+  }
 }
