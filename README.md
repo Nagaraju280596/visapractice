@@ -48,9 +48,9 @@ console.log("hellow welcome")
 ---
 1. Html
 
-2. css
+1. css
 
-3. Bootstrap
+1. Bootstrap
 
-4. javascript
+1. javascript
 
