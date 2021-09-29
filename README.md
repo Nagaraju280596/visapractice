@@ -1,27 +1,68 @@
-# Visapractice
+**headings: one hash will refer one size of heading. There are 6 heading types from h1 to h6**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+ # Techwave
 
-## Development server
+## Techwave
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Techwave
 
-## Code scaffolding
+**Types of text styles**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+'Itallics': _Techwave_
 
-## Build
+'Bold': **Techwave**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+**Hyperlinks**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+[stackblitz Link] ( "readme.md")
 
-## Running end-to-end tests
+**Images**
+![India map](https://www.mapsofindia.com/images2/india-map-2019.jpg "india map")
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+**Multiple lines of code or anything**
 
-## Further help
+'''
+@NgModule({
+  declarations: [
+    AppComponent
+  ],
+  imports: [
+    BrowserModule,
+    AppRoutingModule
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }
+'''
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**Tables**
+
+|Sno|Name|Salary|
+|---|---|---|
+|1|Suresh|25000|
+|2|Mohan|30000|
+|3|Noor|35000|
+|4|Charan|25025|
+
+>Angular Practice Sessions
+
+**List**
+
+### List in markdown file will always follow sequential order. even if you give wrong same number, it will consider as the next number
+
+1.Angular
+    -components
+    -Services
+    -Directives
+    -Pipes
+    -Dependency Injections
+2.React
+3.AWS
+4.Azure
+
+-HTML
+-CSS
+-JavaScript
+
