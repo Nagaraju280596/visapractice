@@ -22,7 +22,7 @@
 
 **Multiple lines of code or anything**
 
-'''
+''' javascript
 console.log("hellow welcome")
 console.log("hellow welcome")
 console.log("hellow welcome")
@@ -44,17 +44,13 @@ console.log("hellow welcome")
 
 ### List in markdown file will always follow sequential order. even if you give wrong same number, it will consider as the next number
 
-1.Angular
-    -components
-    -Services
-    -Directives
-    -Pipes
-    -Dependency Injections
-1.React
-1.AWS
-1.Azure
+>List
+---
+1. Html
 
--HTML
--CSS
--JavaScript
+2. css
+
+3. Bootstrap
+
+4. javascript
 
