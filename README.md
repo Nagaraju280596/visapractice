@@ -15,15 +15,14 @@
 
 **Hyperlinks**
 
-[stackblitz Link] ( "readme.md")
+[stackblitz Link] (https://github.com/Nagaraju280596/visapractice/blob/master/README.md "readme.md")
 
 **Images**
-![India map](https://www.mapsofindia.com/images2/india-map-2019.jpg "india map")
+![] (https://www.mapsofindia.com/images2/india-map-2019.jpg "india map")
 
 **Multiple lines of code or anything**
 
-'''
-@NgModule({
+'''@NgModule({
   declarations: [
     AppComponent
   ],
@@ -34,8 +33,7 @@
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
-'''
+export class AppModule { }'''
 
 **Tables**
 
