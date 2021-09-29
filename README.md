@@ -18,7 +18,7 @@
 [stackblitzLink](https://github.com/Nagaraju280596/visapractice/blob/master/README.md "readme.md")
 
 **Images**
-![sample](https://upl\oad.wikimedia.org/wikipedia/commons/8/8a/Techwave_logo.jpg "india map")
+![sample](https://www.mapsofindia.com/images2/india-map-2019.jpg"sample")
 
 **Multiple lines of code or anything**
 
