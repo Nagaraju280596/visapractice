@@ -15,10 +15,10 @@
 
 **Hyperlinks**
 
-[stackblitz Link] (https://github.com/Nagaraju280596/visapractice/blob/master/README.md "readme.md")
+[stackblitzLink] (https://github.com/Nagaraju280596/visapractice/blob/master/README.md "readme.md")
 
 **Images**
-![sample] (https://www.mapsofindia.com/images2/india-map-2019.jpg "india map")
+![sample](https://www.mapsofindia.com/images2/india-map-2019.jpg "india map")
 
 **Multiple lines of code or anything**
 
@@ -44,8 +44,7 @@ console.log("hellow welcome")
 
 ### List in markdown file will always follow sequential order. even if you give wrong same number, it will consider as the next number
 
->List
----
+
 1. Html
 
 1. css
