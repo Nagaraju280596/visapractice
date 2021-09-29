@@ -22,7 +22,7 @@
 
 **Multiple lines of code or anything**
 
-''' javascript
+'''javascript
 console.log("hellow welcome")
 console.log("hellow welcome")
 console.log("hellow welcome")
@@ -52,4 +52,10 @@ console.log("hellow welcome")
 1. Bootstrap
 
 1. javascript
+
+- angular
+
+- aws
+
+- react
 
