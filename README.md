@@ -22,12 +22,12 @@
 
 **Multiple lines of code or anything**
 
-'''javascript
+```javascript
+console.log("hellow welcome")
+console.log("hello")
 console.log("hellow welcome")
 console.log("hellow welcome")
-console.log("hellow welcome")
-console.log("hellow welcome")
-'''
+```
 
 **Tables**
 
@@ -58,4 +58,7 @@ console.log("hellow welcome")
 - aws
 
 - react
+
+
+
 
