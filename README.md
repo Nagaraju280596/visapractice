@@ -15,7 +15,7 @@
 
 **Hyperlinks**
 
-[stackblitzLink] (https://github.com/Nagaraju280596/visapractice/blob/master/README.md "readme.md")
+[stackblitzLink](https://github.com/Nagaraju280596/visapractice/blob/master/README.md "readme.md")
 
 **Images**
 ![sample](https://www.mapsofindia.com/images2/india-map-2019.jpg "india map")
