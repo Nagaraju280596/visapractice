@@ -50,9 +50,9 @@ console.log("hellow welcome")
     -Directives
     -Pipes
     -Dependency Injections
-2.React
-3.AWS
-4.Azure
+1.React
+1.AWS
+1.Azure
 
 -HTML
 -CSS
